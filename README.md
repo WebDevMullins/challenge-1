@@ -13,3 +13,7 @@ Refactored html and css files to meet accessibility standards.
 ## Link to Website
 
 Visit [Horiseon](https://webdevmullins.github.io/horiseon-refactor/).
+
+## Acknowledgments
+
+Original code source: https://github.com/coding-boot-camp/urban-octo-telegram
